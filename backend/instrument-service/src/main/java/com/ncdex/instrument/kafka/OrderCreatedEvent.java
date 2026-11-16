@@ -1,0 +1,1 @@
+package com.ncdex.instrument.kafka; public record OrderCreatedEvent(String eventType,String orderId,String instrumentId,int quantity,String orderType) {}

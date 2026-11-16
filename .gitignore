@@ -1,0 +1,17 @@
+# Angular generated files
+frontend/.angular/
+frontend/node_modules/
+
+# Java build output
+**/target/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# IDE files
+.idea/
+.vscode/frontend/.angular/
+frontend/node_modules/
+**/target/
